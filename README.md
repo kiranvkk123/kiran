@@ -49,8 +49,8 @@
 *University of Houston, Dec 2023*  
 - Developed an interactive **Tableau dashboard** to visualize sales trends and optimize inventory planning.  
 - Conducted **predictive modeling** using Python and SQL, boosting operational efficiency.
-
-- ```mermaid
+#### ETL Workflow
+```mermaid
 graph TD
     A[Raw Sales Data] --> B[Data Cleaning]
     B --> C[Data Transformation]
