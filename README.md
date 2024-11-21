@@ -87,8 +87,8 @@
 
 ## 🌟 **Portfolio Highlights**
 
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
-- **Tableau Public**: [Link to Your Tableau Portfolio](#)  
+- **GitHub**: [github.com/kiranvkk123](https://github.com/kiranvkk123)  
+- **Tableau Public**: [[Link to Your Tableau Portfolio](https://public.tableau.com/app/profile/kiran.kumar.vadakara/vizzes)  
 
 ---
 
