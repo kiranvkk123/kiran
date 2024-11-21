@@ -1,5 +1,7 @@
-Analyst
-K I R A N K U M A R V A D A K A R A
+### Data Scientist
+
+#### Kiran Kumar Vadakara
+
 (281)250-2754 | kirankumar.vkk.12345@gmail.com
 https://www.linkedin.com/in/kiran-kumar-vadakara/
 Houston, TX 77054
