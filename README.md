@@ -49,6 +49,7 @@
 *University of Houston, Dec 2023*  
 - Developed an interactive **Tableau dashboard** to visualize sales trends and optimize inventory planning.  
 - Conducted **predictive modeling** using Python and SQL, boosting operational efficiency.
+- 
 #### ETL Workflow
 ```mermaid
 graph TD
@@ -59,6 +60,7 @@ graph TD
     E --> F[Sales Insights]
     E --> G[Regional Performance]
     E --> H[Seasonal Trends]
+
 
 ### 🚧 **Real-Time Pothole Detection Using Computer Vision**  
 *University of Houston, Aug 2023*  
