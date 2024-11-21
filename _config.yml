@@ -1,2 +1,5 @@
 title : Kiran Kumar Vadakara
-theme : jekyll-theme-minimal
+logo: /Users/kirankumarvadakara/Documents/mydoc/IMG_1724 Small.jpeg
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
