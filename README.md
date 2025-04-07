@@ -9,10 +9,10 @@
 
 ## 🏆 **Professional Summary**
 
-🎯 Seasoned **Data Scientist** with experience specializing in data-driven decision-making.  
-💻 Expertise in **Python**, **Tableau**, **SQL**, and **AWS Cloud Platforms**.  
-🚀 Skilled in **predictive modeling**, **data visualization**, and **automation** to drive operational improvements.  
-📊 Adept at delivering impactful insights via advanced BI tools like Tableau and Excel.  
+🧠 Generative AI Engineer specializing in Retrieval-Augmented Generation (RAG) systems.
+🛠️ Proficient in LangChain, LlamaIndex, Pinecone, and AWS Bedrock for scalable AI solutions.
+🚀 Experienced in building end-to-end AI pipelines with real-time vector search and cloud deployment.
+📚 Passionate about enhancing LLMs with external knowledge for smarter, context-aware applications.
 
 ---
 
@@ -40,10 +40,17 @@
 | **BI & Visualization**   | Tableau, Microsoft Excel (Pivot Tables, VBA, Charts)                                       |
 | **DevOps Tools**         | Git, Jira, Confluence                                                                      |
 | **Operating Systems**    | Linux, Unix, Mac OS, Windows                                                               |
+| **Gen AI**               | LLMs, RAG, Vector DBs                                                                      |
 
 ---
 
 ## 📂 **Key Projects**
+
+### **Question Answering System with OpenAI and Pinecone**	                                   
+•	Developed a smart Q&A system using OpenAI's(gpt-3.5-turbo) and Pinecone, delivering accurate responses in real-time.
+•	Integrated Pinecone as a vector database, allowing fast and scalable similarity searches across millions of documents. Optimized API response time with asynchronous processing and caching, improving performance by 25%.
+•	Developed a real-time indexing pipeline, reducing document processing latency by 30% with optimized vector storage and retrieval.
+![image](https://github.com/user-attachments/assets/17165e06-01cd-4319-a2f8-c85452edd22c)
 
 ### 🛒 **Walmart Sales Analysis Dashboard**  
 *University of Houston, Dec 2023*  
@@ -63,17 +70,15 @@
 ---
 
 ## 💼 **Professional Experience**
+##**Gen AI Engineer**                                                                                                                     
+•	Fortified AI application data retrieval by orchestrating vector databases including ChromaDB and Pinecone, achieving a 35% improvement in data access times using indexing strategies.
+•	Architected end-to-end AI solutions using LangChain and LlamaIndex, achieving a 15% reduction in model deployment costs through strategic model selection and customized configurations. 
+•	Integrated AWS Bedrock with existing AI infrastructure, ensuring 99.99% uptime for all AI applications, thereby exceeding the company's service level objectives by a wide margin.
 
-### **Analyst**  
-*Cognizant Technology Solutions, Bangalore, India (Jun 2021 - Jun 2022)*  
-- Designed **predictive models** to improve sales forecasting and customer analysis.  
-- Created automated **Tableau dashboards** and optimized SQL queries, cutting query times by 15%.  
-- Leveraged **AWS Redshift** for scalable data solutions.  
-
-### **Analyst Intern**  
-*Cognizant Technology Solutions, Chennai, India (Jan 2021 - Jun 2021)*  
-- Enhanced SQL query performance and collaborated on Agile workflows.  
-- Contributed to AWS-based cloud storage solutions and data analysis initiatives.  
+##**Data Engineer. Client: Bayer AG**                                                                                                   22
+•	Migrated heavy workloads from Snowflake to AWS Redshift Spectrum and Athena, leveraging cost-effective querying on S3 instead of always using compute-heavy databases.
+•	Constructed real-time ETL pipelines, partnering with backend lead, for Tableau visualizations; reduced manual data handling by 90% using AWS Glue, Lambda, Kinesis, and Kafka, and improved report accuracy.
+•	Integrated a new data tier for Tableau dashboards, aligning with cross-functional team’s blueprint, personally resolving 3 critical data inconsistencies, and ensuring proper data governance compliance.
 
 ---
 
@@ -88,7 +93,7 @@
 ## 🌟 **Portfolio Highlights**
 
 - **GitHub**: [github.com/kiranvkk123](https://github.com/kiranvkk123)  
-- **Tableau Public**: [tableau_public.com/Kiran](https://public.tableau.com/app/profile/kiran.kumar.vadakara/vizzes)  
+- **Linkedin**: [Linkedin.com](https://www.linkedin.com/in/kiranvkk/)
 
 ---
 
